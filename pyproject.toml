@@ -30,7 +30,7 @@ dependencies = [
     "djangorestframework",
     "pycryptodome",
     "setuptools",
-    "pillow"
+    "pillow",
 ]
 
 [project.urls]
